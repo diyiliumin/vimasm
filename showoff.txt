@@ -1,0 +1,313 @@
+13G0i1laG2f9v$y@0|13Gyy0i0@09G0i14Gyy@0 n9G0i021Gyy@0 d9G0i026Gyy@0 o9G0i127Gyy@0 X9G0i128Gyy@0
+1
+13G0x9G0P12Gyy@0o9Gi @ X9Gi @ d9Gi @ n9Gi @
+6G$x5G0P7G$x5G0p0laGyy@0|5Gyy@0
+6Gf>2li0lv$y0PJi <-f-3x0i 7Gf>2li3lv$y0PJi <-f-3x0i 8G$vhy20GpaGyy@0yy@0
+input1 -> xxxxxxxxxxxxxxxxxxxxxx
+input2 -> xxxxxxxxxxxxxxxxxxxxxx
+optput -> xxxxxxxxxxxxxxxxxxxxxx
+ <- output
+13G0i1laG2f9v$y@0|13Gyy0i0@09G0i14Gyy@0 d9G0i026Gyy@0 o9G0i127Gyy@0 X9G0i128Gyy@0
+13G0i0laG2f9v$y@0|13Gyy0i1@0913G0i19G0i04Gyy@0 d9G0i126Gyy@0 o9G0i127Gyy@0 X9G0i028Gyy@0
+15GddO1x128p16GddO9G0vey16GP0ea1kr016G0f1kvy9G$p2G12G
+0
+--------------------------------------------------------------------------------------------------------------------------
+[vim-vm fast start]
+ 127Gyy@0 to generate d to b, 135Gyy@0 to run test program(takes about 1 min to end), jump to G100 for more usage
+[alu manual(just an archive ,you dont need this)] 21 for NOT(input 2), 26 for AND, 27 for OR, 28 for XOR
+ 04 for plusing, 23 for minus, 25 for +1, 22 for <<, 29 for arithmetic >>, 30 for logic >> (last 3 input 2)
+--------------------------------------------------------------------------------------------------------------------------
+
+7G$x22G0PaGfnlv$y@0|yy@0
+  7G$vF llx9G0P0xf i00i 12Gyy@0
+3G$i9Gvf hx7G$a3p12G8f1xa5fGayy@025G0i9Gf x9Gvf hx7G$a3p12G3f2i12lxl4x3GvfPd13G0r04Gyy@021Gyy@0
+7G$x5G0Pi0laGyy@0|5Gyy@0
+11Gf4i2Gf4i210Gf4i21Gf4i27G$x5G0Pi1laGyy@0|5Gyy@0
+6G$x22G0P7G$x22G0p0laGfdlv$y@0|yy@0
+6G$x22G0P7G$x22G0p0laGfolv$y@0|yy@0
+6G$x22G0P7G$x22G0p0laGfXlv$y@0|yy@0
+  7G$vF llx9G0P0vyPf hx0i 12Gyy@0
+  7G$vF llx9G0P0i0f hx0i 12Gyy@0
+--------------------------------------------------------------------------------------------------------------------------
+[ASM_manual] or for 58 add for 54 sub for 56 and for 57 mov for 49 end for 51 out for 52 dmov for 63 dout for 64 jnc for 59 shl for 66 sar for 67 slr for 68 not for 73 xor for 74 malloc for 80 free for 81 store for 82 load for 83 insert for 85
+rax for 37 rbx for 38 rcx for 39 rdx for 40 r5 for 41 r6 for 42 r7 for 43 r8 for 44 r9 for 87 r10 for 88 r11 for 89 r12 for 90 r13 for 91 r14 for 92 r15 for 93 r16 for 94 __ for 60 ;; for 60 jmp for 61 cmp for 65 jz for 69 call for 75 ret for 77 push for 78 pop for 79
+--------------------------------------------------------------------------------------------------------------------------
+49Gyy@0jdiwdjiwjdiwdjiwdjw
+--------------------------------------------------------------------------------------------------------------------------
+1
+2
+3
+4
+5
+6
+7
+8
+--------------------------------------------------------------------------------------------------------------------------
+G?__ startmAggV29j"ayGV"by47Gyy@0
+`Aj0   bmAvey48G0igg/ASM_manual/pa2wvey35GPaGyy@0yy@0yy@0
+buffer 
+`Awvey50G0igg/ASM_manual/pa2wvey35GPaGddOmB`A3wvey`Bp47Gyy@0yy@0yy@0 
+buffer
+G?STDOUT@
+`Awvey53G0igg/ASM_manual/pa2wvey35GPaG0veyG?STDOUT$a p47Gyy@0yy@0yy@0
+buffer
+ggV29j"apGV"bp8G$vbc04`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+buffer
+ggV29j"apGV"bp8G$vbc23`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"ap3Gfdf@cl12Gyy@0GV"bp8G$vbc26`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"ap3Gfof@cl12Gyy@0GV"bp8G$vbc27`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+9G0vy62G0i6paGyy@0yy@0
+47Gyy@0
+`Aw  vey62G0iG?pleease wrrite aasm beelow heere/__ pamA47Gyy@0yy@0
+buffer
+`Awvey50G0igg/ASM_manual/pa2wvey35GPaGddOmB`A3wvey50G0iG2k/pa2bvey`Bp47Gyy@0yy@0yy@0yy@0 
+`Awvey53G0igg/ASM_manual/pa2wvey35GPaG0vey50G0iG2k/pa2wveyG?STDOUT$a p47Gyy@0yy@0yy@0yy@0
+ggV29j"apGV"bp8G$vbc23`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"apGV"bp8G$vbc22`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Gvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"apGV"bp8G$vbc29`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Gvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"apGV"bp8G$vbc30`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Gvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+9G$vy62G0i7paGyy@0yy@0
+`Aw  vey72G0iG?pleease wrrite aasm beelow heere/__ pamA47Gyy@0yy@0
+47Gyy@0
+buffer
+ggV29j"ap3G$cl12Gyy@0GV"bp8G$vbc21`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Gvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"ap3GfXf@cl12Gyy@0GV"bp8G$vbc28`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASMM_manual/pa2wvey35GPaGmB9Gvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+`Awwwvey?STAACK$a,p76Gyy@0
+`Aw  vey62G0iG?__ start?__ pamA47Gyy@0yy@0
+G?STAACK$vbhx62G0iG?pleease wrrite aasm beelow heere/pamA47Gyy@0yy@0
+`Awvey50G0Igg/ASM_manual/pa2wvey35GPaGveyG?STAACK$a,p47Gyy@0yy@0yy@0
+`Awvey50G0igg/ASM_manual/pa2wvey35GPaGddOmB?STAACK$vbhx`Bp0x47Gyy@0yy@0yy@0 
+`Awvey50G0Igg/ASM_manual/pa2wvey35GPaGvey50G0iGkk/pawwveoly84G0iG?ASM__usage?HEAAP$vby$pap47Gyy@0yy@0yy@0yy@0yy@0
+`Awvey50G0Igg/ASM_manual/pa2wvey35GPaGvey50G0iGkk/pawwveoly84G0iG?ASM__usage?HEAAP0wpawD47Gyy@0yy@0yy@0yy@0yy@0
+`Awwvey50G0Igg/ASM_manual/pa2wvey35GPaGvey50G0iGkk/pawwveoly84G0iG?ASM__usage?HEAAP0wpawbmB`Awwwwvey84G0Igg/ASM_manual/pa2wvey35GPaGvey`Bviwp47Gyy@0yy@0yy@0yy@0yy@0yy@0yy@0
+`Awvey50G0Igg/ASM_manual/pa2wvey35GPaGmB`Awwwvey50G0igg/ASM_manual/pa2wvey35GPaGvey50G0iGkk/pawwveoly84G0iG?ASM__usage?HEAAP0wpawbyiw`Bviwp47Gyy@0yy@0yy@0yy@0yy@0yy@0yy@0
+buffer
+`Awvey50G0Igg/ASM_manual/pa2wvey35GPaGvey50G0iGkk/pawwveoly84G0iG?ASM__usage?HEAAP0wpawmB`Awwwv$hy`BPa 47Gyy@0yy@0yy@0yy@0yy@0
+--------------------------------------------------------------------------------------------------------------------------
+1
+2
+3
+4
+5
+6
+7
+8
+--------------------------------------------------------------------------------------------------------------------------
+STACK
+--------------------------------------------------------------------------------------------------------------------------
+HEAP 
+--------------------------------------------------------------------------------------------------------------------------
+[ASM_usage] 
+supported:
+    or add sub and mov end out dmov dout jnc shl sar slr not xor malloc free store load jmp cmp jz call ret push pop insert rax rbx rcx rdx r5~16 ;; 
+fast start:
+    127Gyy@0 to generate d to b, 135Gyy@0 to run test program(takes about 1 min to end)
+every action ends with a red error sign from vim, its a design on perpose 
+    if you didnt see the red sign but the program stopped at a wired place, its an error
+__<space>word to set flags, and __word to use it, 
+only support one blank line between codes, 
+use ;;<space>sentence as comments, 
+    if just comment in line, no space before comments, if after code, code<space>;;<space>comment
+only support tabs for indentation, 
+only support mov register,number, 
+    so if you need mov rax,rbx , you write mov rax,0000 add rax,rbx,
+only support add,sub,xor.... register,register, 
+only support load/save register,register, 
+we now support decimal now, but you must decide how much digits you need in this program
+    change counts of zeros in the very front of bit setting area and yy@0 there to generate chart
+    dmov and dout is supported now for decimal, it will convert d to b and store, so you can dmov and out, its ok
+    use dmov <register>,d<number> to use dmov
+__<space>start and end must be set.
+call and ret are supported now, but you must write a unique flage after each call so that program can find way back
+    use like this: call __aimflag,__uniqueflag
+we support heap now, but malloc and free means changing the size of heap
+    a d to b chart must be generated before using heap
+--------------------------------------------------------------------------------------------------------------------------
+please set bit width here,
+000000000 0veyA GkkkkkpI 0b0A for d0 0v$hyGkkp0lxxxkkyy@0   <- yy@0 here to generate
+k$xjjddGkkddOkkkddO?STDDOUT@                              <- yy@0 here to clear
+--------------------------------------------------------------------------------------------------------------------------
+STDOUT
+--------------------------------------------------------------------------------------------------------------------------
+please write asm below here,
+46G$yy@0 							
+kAyou didnt resetyy@0     yy@0 here to run
+
+__ log2
+	sar r6
+	out r6
+	jz __collect
+	call __log2,__call0002
+	__ collect
+	add r8,r7
+	dout r8
+	ret
+__ countdown
+	push r6
+	dmov r7,d1
+	add r6,r7
+	cmp r8,r6
+	jz __popback
+	call __countdown,call0004
+	__ popback
+	pop r6
+	dout r6
+	ret
+__ start
+dmov rbx,d10
+malloc rbx
+dmov rbx,d10
+mov rax,data
+store [rbx],rax
+dmov rbx,d2
+store [rbx],rax
+dmov rax,d7
+free rax
+load rcx,[rbx]
+out rcx
+
+__ start
+dmov rax,d9
+malloc rax
+dmov rax,d2
+insert rax,one two three four five six seven eight nine ten
+dmov rax,d0
+dmov r16,d10
+__ catheap
+	dmov r12,d1
+	add rax,r12
+	load r9,[rax]
+	out r9
+	cmp r16,rax
+	jz __endl
+	jmp __catheap
+__ endl
+
+mov r6,101010101
+push r6
+mov r6,rubbish
+pop r6
+out r6
+dmov r6,d0
+dmov r8,d8
+call __countdown,call0003
+
+mov r6,101010101
+mov r8,010101010
+dmov r7,d1
+or r8,r6
+out r8
+not r8
+out r8
+
+dmov r6,d128
+call __log2,__call0001
+__ sssss
+mov r6,01100
+out r6
+mov r7,00001
+add r7,r6
+xor r6,r7
+out r6
+not r6
+out r6
+not r6
+out r6
+not r6
+out r6
+
+sar r6
+shl r6
+
+out r6
+
+shl r6
+shl r6
+out r6
+sar r6
+
+out r6
+
+slr r6
+
+out r6
+
+dmov rax,d5 ;; store d numbers
+dmov rbx,d3 ;; this is comment
+
+cmp rax,rbx 
+jnc __small
+end
+__ small
+dout rax
+
+dmov rax,d3
+cmp rax,rbx
+jz __equal
+end
+
+__ equal
+mov rdx,equal
+out rdx
+jmp __fbnq
+end
+
+sub rax,rbx
+end
+;; this is comment
+
+cmp rax,rbx
+jnc __carry
+out rax
+dout rbx
+
+__ carry
+end
+
+__ fbnq
+
+dmov rax,d1 ;; store d numbers
+dmov rbx,d1 ;; this is comment
+dmov rcx,d12
+
+mov r5,现在开始计算斐波那契 ;; everything is a string because its vim, a text editer
+;; so actually you can just store string into regesters, no one cares if you dont put them in alu
+
+out r5
+
+dout rax
+__ loop ;; you can add comment after flags it doesn't matter
+
+	dout rax
+
+	dmov rdx,d0
+	add rdx,rax
+
+	add rax,rbx
+
+	mov rbx,000000000 ;; you can still use bin if you like
+	add rbx,rdx
+
+	mov rdx,000000001
+	sub rcx,rdx
+
+	jnc __loop ;; jump back
+end
+
+dmov rbx,d100 ;; this wont be ran, and we dont care
+dout rbx
+end
+
+
+
+
+please write asm above here,
+--------------------------------------------------------------------------------------------------------------------------
+
+ Fjjyy@0 F GkkkkkVy?STDDOUTkkp0Iset complete, must be smaller than:A(not included)@ notsb
+
+k0leww0lvwwelyjjj$p$bbbxxxk0I$pakkkb   FFlv$hy@0lDyy@0
+$1kkkb   FFlv$hy@0
+
+
+13G0i0laG2f9v$y@0|13Gyy0i0@09G0i04Gyy@0 n9G0i121Gyy@0 d9G0i026Gyy@0 o9G0i027Gyy@0 X9G0i028Gyy@0
