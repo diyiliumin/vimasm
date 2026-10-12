@@ -1,0 +1,31 @@
+13G0i1laG2f9v$y@0|13Gyy0i0@09G0i14Gyy@0 n9G0i021Gyy@0 d9G0i026Gyy@0 o9G0i127Gyy@0 X9G0i128Gyy@0
+2
+13G0x9G0P12Gyy@0o9Gi @ X9Gi @ d9Gi @ n9Gi @
+6G$x5G0P7G$x5G0p0laGyy@0|5Gyy@0
+6Gf>2li0lv$y0PJi <-f-3x0i 7Gf>2li3lv$y0PJi <-f-3x0i 8G$vhy20GpaGyy@0yy@0
+input1 -> 1010
+input2 -> 1101
+optput -> 23
+ <- output
+13G0i1laG2f9v$y@0|13Gyy0i0@09G0i14Gyy@0 d9G0i026Gyy@0 o9G0i127Gyy@0 X9G0i128Gyy@0
+13G0i0laG2f9v$y@0|13Gyy0i1@0913G0i19G0i04Gyy@0 d9G0i126Gyy@0 o9G0i127Gyy@0 X9G0i028Gyy@0
+2G12Gyy@
+0
+--------------------------------------------------------------------------------------------------------------------------
+[instruction] a simple ALU simulator build with vim macro by ayazumi
+[usage] please put in bin numbers after input 1 and 2, put options in optput, start by typing 5Gyy@0 in normal mode.
+[manual] 04 for adding, 23 for minus, 25 for +1, 22 for <<, 29 for arithmetic >>, 30 for logic >> (last 3 input 2)
+         21 for NOT(input 2), 26 for AND, 27 for OR, 28 for XOR
+--------------------------------------------------------------------------------------------------------------------------
+
+7G$x22G0PaGfnlv$y@0|yy@0
+  7G$vF llx9G0P0xf i00i @
+3G$i9Gvf hx7G$a3p12Gf1xa5$a025G0i9Gf x9Gvf hx7G$a3p12Gf2i12lx$x3GvfPd13G0r04Gyy@021Gyy@0
+7G$x5G0Pi0laGyy@0|5Gyy@0
+11Gf4i2Gf4i210Gf4i21Gf4i27G$x5G0Pi1laGyy@0|5Gyy@0
+6G$x22G0P7G$x22G0p0laGfdlv$y@0|yy@0
+6G$x22G0P7G$x22G0p0laGfolv$y@0|yy@0
+6G$x22G0P7G$x22G0p0laGfXlv$y@0|yy@0
+  7G$vF llx9G0P0vyPf hx0i @
+  7G$vF llx9G0P0i0f hx0i @
+13G0i0laG2f9v$y@0|13Gyy0i0@09G0i04Gyy@0 n9G0i121Gyy@0 d9G0i026Gyy@0 o9G0i027Gyy@0 X9G0i028Gyy@0
