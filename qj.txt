@@ -1,0 +1,18 @@
+9G0i1laG2f8v$y@0|9Gyy0i0@08G0i14Gyy@0
+1
+9G0x8G0P12Gyy@0
+6G$x5G0P7G$x5G0p0laGyy@0|5Gyy@0
+6Gf>2lv$y0PJi <-f-3x0r 7Gf>2lv$y0PJi <-f-3x0r 4Gyy@0
+input1 -> 0110101000010111
+input2 -> 3100011000100111
+ <- output
+0
+9G0i1laG2f8v$y@0|9Gyy0i0@08G0i14Gyy@0
+9G0i0laG2f8v$y@0|9Gyy0i1@089G0i18G0i04Gyy@0
+2G12Gyy@
+---------------------------------------------------------------------------
+[instruction] full adder with vim macro by ayazumi
+[usage]  0 and 3 at the very front of input is a flag that the program need, 
+please put in bin numbers after them, start by typing 5Gyy@0 in normal mode.
+---------------------------------------------------------------------------
+9G0i0laG2f8v$y@0|9Gyy0i0@08G0i04Gyy@0
