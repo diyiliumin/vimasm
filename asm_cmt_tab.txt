@@ -1,0 +1,127 @@
+13G0i1laG2f9v$y@0|13Gyy0i0@09G0i14Gyy@0 n9G0i021Gyy@0 d9G0i026Gyy@0 o9G0i127Gyy@0 X9G0i128Gyy@0
+2
+13G0x9G0P12Gyy@0o9Gi @ X9Gi @ d9Gi @ n9Gi @
+6G$x5G0P7G$x5G0p0laGyy@0|5Gyy@0
+6Gf>2li0lv$y0PJi <-f-3x0i 7Gf>2li3lv$y0PJi <-f-3x0i 8G$vhy20GpaGyy@0yy@0
+input1 -> xxxxxxxxxxxxxxxxxxxxxx
+input2 -> xxxxxxxxxxxxxxxxxxxxxx
+optput -> xxxxxxxxxxxxxxxxxxxxxx
+ <- output
+13G0i1laG2f9v$y@0|13Gyy0i0@09G0i14Gyy@0 d9G0i026Gyy@0 o9G0i127Gyy@0 X9G0i128Gyy@0
+13G0i0laG2f9v$y@0|13Gyy0i1@0913G0i19G0i04Gyy@0 d9G0i126Gyy@0 o9G0i127Gyy@0 X9G0i028Gyy@0
+2G12G
+0
+--------------------------------------------------------------------------------------------------------------------------
+[instruction] a simple ALU simulator build with vim macro by ayazumi
+[usage] please put in bin numbers after input 1 and 2, put options in optput, start by typing 5Gyy@0 in normal mode.
+[manual] 04 for plusing, 23 for minus, 25 for +1, 22 for <<, 29 for arithmetic >>, 30 for logic >> (last 3 input 2)
+         21 for NOT(input 2), 26 for AND, 27 for OR, 28 for XOR
+--------------------------------------------------------------------------------------------------------------------------
+
+7G$x22G0PaGfnlv$y@0|yy@0
+  7G$vF llx9G0P0xf i00i @
+3G$i9Gvf hx7G$a3p12Gf1xa5fGayy@025G0i9Gf x9Gvf hx7G$a3p12Gf2i12lxl4x3GvfPd13G0r04Gyy@021Gyy@0
+7G$x5G0Pi0laGyy@0|5Gyy@0
+11Gf4i2Gf4i210Gf4i21Gf4i27G$x5G0Pi1laGyy@0|5Gyy@0
+6G$x22G0P7G$x22G0p0laGfdlv$y@0|yy@0
+6G$x22G0P7G$x22G0p0laGfolv$y@0|yy@0
+6G$x22G0P7G$x22G0p0laGfXlv$y@0|yy@0
+  7G$vF llx9G0P0vyPf hx0i @
+  7G$vF llx9G0P0i0f hx0i @
+--------------------------------------------------------------------------------------------------------------------------
+[ASM_manual] add for 54 sub for 56 and for 57 or for 58 mov for 49 end for 51 out for 52 jnc for 59
+rax for 37 rbx for 38 rcx for 39 rdx for 40 __ for 60 ;; for 60
+--------------------------------------------------------------------------------------------------------------------------
+49Gyy@0jdiwdjiwjdiwdjiwdjw
+--------------------------------------------------------------------------------------------------------------------------
+1
+2
+3
+4
+5
+6
+7
+8
+--------------------------------------------------------------------------------------------------------------------------
+G?__ startmAggV29j"ayGV"by47Gyy@0
+`Aj0   bmAvey48G0igg/ASM_manual/pa2wvey35GPaGyy@0yy@0yy@0
+buffer 
+`Awvey50G0igg/ASM_manual/pa2wvey35GPaGddOmB`A3wvey`Bp47Gyy@0yy@0yy@0 
+buffer
+G?STDOUT@
+`Awvey53G0igg/ASM_manual/pa2wvey35GPaG0veyG?STDOUT$a p47Gyy@0yy@0yy@0
+buffer
+ggV29j"apGV"bp8G$vbc04`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASM_manualn/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+buffer
+ggV29j"apGV"bp8G$vbc23`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASM_manualn/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"apGV"bp8G$vbc26`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASM_manualn/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+ggV29j"apGV"bp8G$vbc27`Awvey55G0igg/ASM_manual/pa2wvey35GPaGvey6G$vbpyy@0`A3wvey55G0igg/ASM_manual/pa2wvey35GPaGvey7G$vbp`Awvey55G0igg/ASM_manual/pa2wvey12GA`Awvey55G0igg/ASM_manualn/pa2wvey35GPaGmB9Glvey`Bvep47Gyy@0yy@055Gyy@05Gyy@055Gyy@0yy@0
+9G0vy62G0i6paGyy@0yy@0
+47Gyy@0
+`Aw  vey62G0iG?__ start/__ pamA47Gyy@0yy@0
+buffer
+--------------------------------------------------------------------------------------------------------------------------
+[ASM_usage] 
+__<space>word to set flags, and __word to use it, 
+only support one blank line between codes, 
+use ;;<space>sentence as comments, 
+if just comment in line, no space before comments, if after code, code<space>;;<space>comment
+only support tabs for indentation, only support mov register,number, 
+so if you need mov rax,rbx , you write mov rax,0000 add rax,rbx,
+__<space>start and end must be set.
+--------------------------------------------------------------------------------------------------------------------------
+STDOUT
+--------------------------------------------------------------------------------------------------------------------------
+please write asm below here,
+46G$yy@0 yy@0 here to run
+
+__ start
+;; this is comment
+
+mov rax,0000000000001 ;; this is comment
+mov rbx,0000000000001 ;; this is comment
+mov rcx,0000000001010 ;; this is comment
+out rax
+__ loop ;; this is comment
+	out rax
+
+	mov rdx,0000000000000
+	add rdx,rax
+
+	add rax,rbx
+
+	mov rbx,0000000000000
+	add rbx,rdx
+
+	mov rdx,0000000000001
+	sub rcx,rdx
+
+	jnc __loop ;; this is comment
+end
+
+;; this is comment
+
+mov rax,0110 ;; this is comment
+mov rbx,0011 ;; this is comment
+
+mov rcx,0000 ;; this is comment
+
+__ compare ;; this is comment
+	mov rdx,0000
+	add rdx,rax
+	sub rdx,rbx
+	jnc __no_swap ;; this is comment
+
+__ swap
+	mov rcx,0000
+	add rcx,rax
+	mov rax,0000
+	add rax,rbx
+	mov rbx,0000
+	add rbx,rcx
+
+__ no_swap
+	out rax
+	out rbx
+	end
+13G0i0laG2f9v$y@0|13Gyy0i0@09G0i04Gyy@0 n9G0i121Gyy@0 d9G0i026Gyy@0 o9G0i027Gyy@0 X9G0i028Gyy@0
